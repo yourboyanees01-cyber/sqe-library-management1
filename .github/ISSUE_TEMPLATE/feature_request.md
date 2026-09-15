@@ -1,4 +1,4 @@
-cat > .github/ISSUE_TEMPLATE/feature_request.md << 'EOF'
+
 ---
 name: Feature Request
 about: Suggest a new feature or enhancement
@@ -13,4 +13,3 @@ Describe the solution you'd like.
 
 ## Alternatives Considered
 Any alternative solutions or features you've considered.
-EOF

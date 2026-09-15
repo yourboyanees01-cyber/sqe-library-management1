@@ -1,4 +1,4 @@
-cat > .github/ISSUE_TEMPLATE/bug_report.md << 'EOF'
+
 ---
 name: Bug Report
 about: Report a bug or unexpected behavior
@@ -25,4 +25,3 @@ What actually happened.
 
 ## Severity
 Low / Medium / High / Critical
-EOF
