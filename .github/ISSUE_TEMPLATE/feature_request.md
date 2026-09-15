@@ -1,30 +1,16 @@
-\---
-
+cat > .github/ISSUE_TEMPLATE/feature_request.md << 'EOF'
+---
 name: Feature Request
-
 about: Suggest a new feature or enhancement
-
-title: "\[FEATURE] "
-
+title: "[FEATURE] "
 labels: enhancement
-
-\---
-
-
-
-\## Problem
-
+---
+## Problem
 What problem does this feature solve?
 
-
-
-\## Proposed Solution
-
+## Proposed Solution
 Describe the solution you'd like.
 
-
-
-\## Alternatives Considered
-
+## Alternatives Considered
 Any alternative solutions or features you've considered.
-
+EOF
