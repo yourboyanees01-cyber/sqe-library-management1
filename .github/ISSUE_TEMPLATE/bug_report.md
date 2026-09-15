@@ -1,54 +1,28 @@
-\---
-
+cat > .github/ISSUE_TEMPLATE/bug_report.md << 'EOF'
+---
 name: Bug Report
-
 about: Report a bug or unexpected behavior
-
-title: "\[BUG] "
-
+title: "[BUG] "
 labels: bug
-
-\---
-
-
-
-\## Description
-
+---
+## Description
 A clear description of the bug.
 
+## Steps to Reproduce
+1. 
+2. 
+3. 
 
-
-\## Steps to Reproduce
-
-1\. 
-
-2\. 
-
-3\. 
-
-
-
-\## Expected Result
-
+## Expected Result
 What you expected to happen.
 
-
-
-\## Actual Result
-
+## Actual Result
 What actually happened.
 
+## Environment
+- OS:
+- Python version:
 
-
-\## Environment
-
-\- OS:
-
-\- Python version:
-
-
-
-\## Severity
-
+## Severity
 Low / Medium / High / Critical
-
+EOF
